@@ -15,12 +15,6 @@ Disappointed by the lack of good network apis in android / java I developed a co
 
 The javadoc should provide all information needed to understand the methods, but if not feel free to add a issue in github and I'll address any questions! :)
 
-### Sample app
-
-The sample app is published on Google play to allow you to quickly and easier test the library. Enjoy! And please do feedback to us if your tests produce different results. 
- 
-<a href="https://play.google.com/store/apps/details?id=com.stealthcotper.networktools&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" width="150"/></a>
-
 ## Usage
 
 ### Add as dependency
